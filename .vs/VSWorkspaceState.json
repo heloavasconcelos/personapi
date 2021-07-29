@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\project",
+    "\\src\\main\\java\\com\\project\\personapi",
+    "\\src\\main\\java\\com\\project\\personapi\\controller"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\project\\personapi\\controller\\PersonController.java",
+  "PreviewInSolutionExplorer": false
+}
